@@ -3,4 +3,8 @@ hello how are you
 
 can we meet tomorrow
 
+<<<<<<< HEAD
 no we can't meet tomorrow
+=======
+yes,we can meet 
+>>>>>>> feature
